@@ -25,7 +25,7 @@ void printa_mapa(MAP* mapa){
 		printf("\n\n");
 	}
 	printf("\n\n");
-	sleep(2);
+	sleep(1);
 }
 
 MAP* criar_mapa(){
