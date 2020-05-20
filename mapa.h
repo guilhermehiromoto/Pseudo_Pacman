@@ -8,7 +8,7 @@ MAP* criar_mapa();
 
 void printa_mapa(MAP* mapa);
 
-void move_pacman(MAP* mapa, GRAFO* grafo);
+void move_pacman(MAP* mapa, GRAFO* grafo, int avoid);
 
 void clear_mapa(MAP* mapa);
 
