@@ -1,12 +1,13 @@
 /*
  *          #####      GRUPO       ##### 
  *
- *	  Guilherme Amaral Hiromoto - nUSP: 11218959
- *	  Maria Fernanda Lucio de Mello - nUSP: 11320860
+ *    Guilherme Amaral Hiromoto - nUSP: 11218959
+ *    Maria Fernanda Lucio de Mello - nUSP: 11320860
  *    Paulo Matana da Rocha - nUSP: 10892676
  *    Victor Rodrigues Russo - nUSP: 11218855
  *
 */
+
 
 #ifndef GRAFO_H
 #define GRAFO_H
